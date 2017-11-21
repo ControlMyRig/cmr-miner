@@ -1,4 +1,4 @@
-# Hello
+# СMR Miner
 
 ## EN
 This repo is only for downloading **CMR Miner**.
